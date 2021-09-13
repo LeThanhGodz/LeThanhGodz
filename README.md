@@ -17,8 +17,12 @@
          - 💬 Ask me about <strong>JavaScript, HTML, CSS, Learning More Languages</strong> -
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeThanhGodz&show_icons=true&theme=dracula" />
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeThanhGodz&theme=radical&hide_border=true" /> 
-         </p>  
+              
+         </p>
+        
+        <p align="center">
+                  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeThanhGodz&theme=radical&hide_border=false" />
+        </p>
 
 </table>
 </p>
