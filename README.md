@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.imgur.com/kL1q4yh.jpeg" width="50%"/></a><br/>
+         <img align="center" src="https://imgur.com/a/wN1H1W8" width="50%"/></a><br/>
          <br/><br/>
             <a href="#"><img align="center"></a>
          <br/><br/>
