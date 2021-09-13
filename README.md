@@ -21,7 +21,7 @@
       </td>
       <td>
       <br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeThanhGodz&theme=draculal&hide_border=true" />       
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeThanhGodz&true&theme=draculal&hide_border=true" />       
       </td>
    </tr>
 </table>
