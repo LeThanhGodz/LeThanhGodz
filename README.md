@@ -8,7 +8,7 @@
          <br/><br/>
             <a href="#"><img align="center"></a>
          <br/><br/>
-         - ☎️ Contact Me Here <strong><a href="https://facebook.com/lethanh.godz">7Onez</a></strong> -
+         - ☎️ Contact Me Here <strong><a href="https://facebook.com/lethanh.godz">Le Thanh(Godz)</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>C++,HTML,CSS</strong> -
          <br/>
