@@ -10,7 +10,7 @@
          <br/><br/>
          - ☎️ Contact Me Here <strong><a href="https://facebook.com/lethanh.godz">7Onez</a></strong> -
          <br/>
-         - 🌱 I’m currently learning <strong>C++,HTML,CSS</strong> -- 🌴 I'm have a passion with Jordan too-
+         - 🌱 I’m currently learning <strong>C++,HTML,CSS</strong> -\n- 🌴 I'm have a passion with Jordan too -
          <br/>
          - 💬 Ask me about <strong>JavaScript, HTML, CSS, Learning More Languages</strong> -
          <p align="center">                     
