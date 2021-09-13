@@ -12,7 +12,6 @@
          <br/>
          - 🌱 I’m currently learning <strong>C++,HTML,CSS</strong> -
          <br/>
-         <br/>
          - 🌴 I'm have a passion with Jordan too -
          <br/>
          - 💬 Ask me about <strong>JavaScript, HTML, CSS, Learning More Languages</strong> -
