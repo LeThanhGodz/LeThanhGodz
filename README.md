@@ -19,10 +19,10 @@
              <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeThanhGodz&show_icons=true&theme=dracula" />
               
          </p>
-        
-        <p2 align="center">
+        <br/>
+        <p align="center"> 
                   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeThanhGodz&theme=radical&hide_border=false" />
-        </p2>
+        </p>
 
 </table>
 </p>
