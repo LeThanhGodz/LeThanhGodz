@@ -20,9 +20,9 @@
               
          </p>
         
-        <p align="center">
+        <p2 align="center">
                   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeThanhGodz&theme=radical&hide_border=false" />
-        </p>
+        </p2>
 
 </table>
 </p>
