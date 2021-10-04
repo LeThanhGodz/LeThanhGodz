@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://github-profile-trophy.vercel.app/?username=vudinhnamkhanh&theme=tokyonight&margion-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy" />
+         <img align="center" src="https://github-profile-trophy.vercel.app/?username=vudinhnamkhanh&theme=tokyonight&margion-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy" /></a><br/>
          <br/><br/>
             <a href="#"><img align="center"></a>
          <br/><br/>
