@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         [![trophy](https://github-profile-trophy.vercel.app/?LeThanhGodz=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+         <img align="center" src="https://github-profile-trophy.vercel.app/?LeThanhGodz=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy" width="50%"/></a><br/>
          <br/><br/>
             <a href="#"><img align="center"></a>
          <br/><br/>
