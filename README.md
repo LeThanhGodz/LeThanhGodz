@@ -11,9 +11,6 @@
          - ☎️ Contact Me Here <strong><a href="https://facebook.com/lethanh.godz">Le Thanh(Godz)</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>C++,HTML,CSS</strong> -
-         <br/>
-         - 🌴 I'm have a passion with Jordan too -
-         <br/>
          - 💬 Ask me about <strong>JavaScript, HTML, CSS, Learning More Languages</strong> -
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeThanhGodz&show_icons=true&theme=dracula" />
